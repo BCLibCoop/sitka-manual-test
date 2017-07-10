@@ -1,4 +1,4 @@
 = Thingie
 Author
 
-include::asciidoc-test-main.adoc[]
+include::sitka-manual-test-main.adoc[]
