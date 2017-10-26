@@ -1,6 +1,8 @@
 = Thingie
 Author
 
+add text
+
 Main
 ====
 include::sitka-manual-test-main.adoc[]
