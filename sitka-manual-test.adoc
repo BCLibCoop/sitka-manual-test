@@ -2,3 +2,6 @@
 Author
 
 include::sitka-manual-test-main.adoc[]
+
+
+include::tinatestpage.adoc[]
