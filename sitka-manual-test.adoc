@@ -3,14 +3,12 @@ Author
 
 
 include::sitka-manual-test-main.adoc[]
-=======
+
 add text
 
 Main
-====
-include::sitka-manual-test-main.adoc[]
 
 Added Same Level
-================
+
 include::tinatestpage.adoc[]
 
