@@ -7,7 +7,7 @@ My Name is {author}.
 This doc was added on {date}.
 
 Level 1
-_______
+
 A Test of Level 1 Heading.
 
 Level 2
