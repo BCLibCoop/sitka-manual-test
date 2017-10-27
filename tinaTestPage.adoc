@@ -11,5 +11,5 @@ Level 1
 A Test of Level 1 Heading.
 
 Level 2
-~~~~~~~
+~~~~~
 
