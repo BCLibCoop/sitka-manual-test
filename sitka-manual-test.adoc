@@ -4,11 +4,6 @@ Author
 
 include::sitka-manual-test-main.adoc[]
 
-add text
-
-Main
-
-Added Same Level
 
 include::tinaTestPage.adoc[]
 
