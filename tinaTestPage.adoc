@@ -11,17 +11,9 @@ This doc was added on {date}.
 
 = Getting Started
 
-We will talk about how to start to use Evegreen.
+include::getting-started.adoc[]
 
-== Register a workstation
 
-include::register-workstation.adoc[]
+= Circulation
 
-== Log in
-
-== change operator
-
-== navigation
-
-== workstation admin
-
+= Cataloguing

@@ -1,0 +1,15 @@
+We will talk about how to start to use Evegreen.
+
+== Register a workstation
+
+  This is how to register a workstation.
+
+== Log in
+
+== change operator
+
+== navigation
+
+include::navigation.adoc[]
+
+== workstation admin
