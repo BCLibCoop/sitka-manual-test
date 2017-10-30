@@ -3,11 +3,7 @@
 :date: Oct 25, 17
 :Revision: v.1
 
-from another doc
 
-My Name is {author}.
-
-This doc was added on {date}.
 
 = Getting Started
 
@@ -17,3 +13,9 @@ include::getting-started.adoc[]
 = Circulation
 
 = Cataloguing
+
+from another doc
+
+My Name is {author}.
+
+This doc was added on {date}.

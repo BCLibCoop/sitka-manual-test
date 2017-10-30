@@ -1,0 +1,14 @@
+.shortcut/hotkey
+
+.column picker
+
+The column picker has a new look. Look at the screenshot.
+
+
+.column picker
+image:/images/start/column-picker.png[
+"column-picker",width=128,
+link="/images/start/colymn-picker.png]
+
+  You may use this 
+column picker
