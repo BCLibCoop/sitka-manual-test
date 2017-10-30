@@ -11,7 +11,7 @@ This doc was added on {date}.
 
 = Getting Started
 
-
+We will talk about how to start to use Evegreen.
 
 == Register a workstation
 
