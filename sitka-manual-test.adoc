@@ -1,9 +1,10 @@
-= Thingie
+
+= Thingie 
 Author
 
 
-include::sitka-manual-test-main.adoc[]
 
+include::sitka-manual-test-main.adoc[]
 
 include::tinaTestPage.adoc[]
 
