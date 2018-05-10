@@ -12,3 +12,6 @@ link="/images/start/colymn-picker.png]
 
   You may use this 
 column picker
+
+
+This is master and a new change to master.
